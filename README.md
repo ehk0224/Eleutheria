@@ -1,2 +1,2 @@
-# BK-Pricing-tool
+# Eleutheria
 A tool helps you price the financial products.
